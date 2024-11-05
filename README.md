@@ -6,9 +6,6 @@ Welcome to my personal blog, built with **Hugo**! This blog is where I share my 
 
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [License](#license)
 
 ---
 
