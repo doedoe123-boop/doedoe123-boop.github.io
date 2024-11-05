@@ -3,8 +3,6 @@ date = '2024-11-05T12:31:15+08:00'
 title = 'About Me'
 +++
 
-# About Me
-
 Hello! 👋 My name is Nelson, and I'm passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.
 
 ## My Journey

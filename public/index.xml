@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/journey/</link>
       <pubDate>Tue, 05 Nov 2024 12:45:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/journey/</guid>
-      <description>&lt;h1 id=&#34;my-journey&#34;&gt;My Journey&lt;/h1&gt;
-&lt;p&gt;Hello everyone! 👋&lt;/p&gt;
+      <description>&lt;p&gt;Hello everyone! 👋&lt;/p&gt;
 &lt;p&gt;I wanted to take some time to share my journey in software development. It&amp;rsquo;s been an incredible experience filled with learning, challenges, and growth, and I’m excited to tell you more about it.&lt;/p&gt;
 &lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
 &lt;p&gt;I first got interested in coding when I took my first programming class in college and I started building websites as a hobby&amp;quot;. I remember feeling excited but intimidated and decided to dive deeper into this world.&lt;/p&gt;</description>
@@ -24,8 +23,7 @@
       <link>http://localhost:1313/posts/about/</link>
       <pubDate>Tue, 05 Nov 2024 12:31:15 +0800</pubDate>
       <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;
+      <description>&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;
 &lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
 &lt;p&gt;I started my journey in software development when I was in college. Since then, I&amp;rsquo;ve been dedicated to honing my skills and expanding my knowledge in areas like:&lt;/p&gt;
 &lt;ul&gt;

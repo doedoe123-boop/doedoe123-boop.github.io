@@ -3,8 +3,6 @@ date = '2024-11-05T12:45:00+08:00'
 title = 'My Journey'
 +++
 
-# My Journey
-
 Hello everyone! 👋
 
 I wanted to take some time to share my journey in software development. It's been an incredible experience filled with learning, challenges, and growth, and I’m excited to tell you more about it.
