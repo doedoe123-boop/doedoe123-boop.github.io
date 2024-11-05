@@ -1,6 +1,6 @@
 # My Hugo Blog Site
 
-Welcome to my personal blog, built with **Hugo**! This blog is where I share my journey, experiences, and knowledge in web development, cybersecurity, and other interests.
+Welcome to my personal blog, built with **Hugo**! This blog is where I share my journey, experiences, and knowledge in web development and other interests.
 
 ## Table of Contents
 
