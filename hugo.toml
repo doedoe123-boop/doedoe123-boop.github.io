@@ -1,4 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Personal Blog' 
+baseURL = ''
+languageCode = 'en-US'
+title = 'Blog' 
+author = 'Nelson Asumbrado'
 theme='PaperMod'
+
+[params]
+ # Optional social media links
+  socialIcons = [
+    { name = "GitHub", url = "https://github.com/doedoe123-boop" },
+    { name = "Facebook", url = "https://www.facebook.com/nelson.asumbrado" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/nelson-asumbrado-3049a2243" }
+  ]
+  [params.homeInfoParams]
+    title = "Hello there! 👋 "
+Content = """I’m thrilled to have you here. This is my personal space where I share my journey in software development, the tools I use, and the lessons I've learned along the way. Whether you're a fellow developer, a beginner, or just curious about tech, I hope my posts inspire and inform you.
+
+Here, you'll find everything from tips and tutorials on web development to insights into the world of cybersecurity. I’m passionate about learning new technologies and improving my skills, and this blog is a reflection of that continuous growth.
+
+Thanks for visiting, and I hope you enjoy reading as much as I enjoy writing!"""
+
+[menus]
+  [[menus.main]]
+    name = 'Contact'
+    url = '/contact'
+    weight = 20

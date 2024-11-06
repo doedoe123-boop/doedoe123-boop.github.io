@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Personal Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Personal Blog</description>
+    <title>Posts on Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- 0.137.0</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Tue, 05 Nov 2024 12:45:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey</title>
-      <link>http://localhost:1313/posts/journey/</link>
+      <link>//localhost:1313/posts/journey/</link>
       <pubDate>Tue, 05 Nov 2024 12:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/journey/</guid>
-      <description>&lt;h1 id=&#34;my-journey&#34;&gt;My Journey&lt;/h1&gt;
+      <guid>//localhost:1313/posts/journey/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Journey Image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/journey.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hello everyone! 👋&lt;/p&gt;
 &lt;p&gt;I wanted to take some time to share my journey in software development. It&amp;rsquo;s been an incredible experience filled with learning, challenges, and growth, and I’m excited to tell you more about it.&lt;/p&gt;
 &lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
@@ -21,11 +21,10 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>//localhost:1313/posts/about/</link>
       <pubDate>Tue, 05 Nov 2024 12:31:15 +0800</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;
+      <guid>//localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;
 &lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
 &lt;p&gt;I started my journey in software development when I was in college. Since then, I&amp;rsquo;ve been dedicated to honing my skills and expanding my knowledge in areas like:&lt;/p&gt;
 &lt;ul&gt;

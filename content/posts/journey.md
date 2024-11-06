@@ -1,7 +1,11 @@
 +++
 date = '2024-11-05T12:45:00+08:00'
 title = 'My Journey'
+ShowToc = true
+params.showReadingTime = true
 +++
+
+![Journey Image](/images/journey.jpg)
 
 Hello everyone! 👋
 
