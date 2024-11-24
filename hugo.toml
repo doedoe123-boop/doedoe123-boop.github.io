@@ -18,9 +18,3 @@ Content = """I’m thrilled to have you here. This is my personal space where I 
 Here, you'll find everything from tips and tutorials on web development to insights into the world of cybersecurity. I’m passionate about learning new technologies and improving my skills, and this blog is a reflection of that continuous growth.
 
 Thanks for visiting, and I hope you enjoy reading as much as I enjoy writing!"""
-
-[menus]
-  [[menus.main]]
-    name = 'Contact'
-    url = '/contact'
-    weight = 20
