@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Blog</description>
-    <generator>Hugo -- 0.137.0</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Nov 2024 12:45:00 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,27 +13,14 @@
       <link>//localhost:1313/posts/journey/</link>
       <pubDate>Tue, 05 Nov 2024 12:45:00 +0800</pubDate>
       <guid>//localhost:1313/posts/journey/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Journey Image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/journey.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Hello everyone! 👋&lt;/p&gt;
-&lt;p&gt;I wanted to take some time to share my journey in software development. It&amp;rsquo;s been an incredible experience filled with learning, challenges, and growth, and I’m excited to tell you more about it.&lt;/p&gt;
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
-&lt;p&gt;I first got interested in coding when I took my first programming class in college and I started building websites as a hobby&amp;quot;. I remember feeling excited but intimidated and decided to dive deeper into this world.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/journey.jpg&#34; alt=&#34;Journey Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello everyone! 👋&lt;/p&gt;&#xA;&lt;p&gt;I wanted to take some time to share my journey in software development. It&amp;rsquo;s been an incredible experience filled with learning, challenges, and growth, and I’m excited to tell you more about it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;I first got interested in coding when I took my first programming class in college and I started building websites as a hobby&amp;quot;. I remember feeling excited but intimidated and decided to dive deeper into this world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>//localhost:1313/posts/about/</link>
       <pubDate>Tue, 05 Nov 2024 12:31:15 +0800</pubDate>
       <guid>//localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;
-&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
-&lt;p&gt;I started my journey in software development when I was in college. Since then, I&amp;rsquo;ve been dedicated to honing my skills and expanding my knowledge in areas like:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;PHP, Laravel, Vue.js, and React&lt;/strong&gt; – My core web development stack.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Linux (Ubuntu/Debian) and NGINX&lt;/strong&gt; – For server administration and hosting.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AWS, DigitalOcean, and Contabo&lt;/strong&gt; – Cloud services I use for deploying and managing applications.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-i-love-working-on&#34;&gt;What I Love Working On&lt;/h2&gt;
-&lt;p&gt;I enjoy creating projects that involve web applications, secure systems, or responsive user interfaces. My favorite part of development is solving challenging problems, learning new frameworks, and collaborating with others.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello! 👋 My name is Nelson, and I&amp;rsquo;m passionate about learning coding and security. I’m a developer with a background in web development, and I love exploring new technologies and improving my skills.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;&#xA;&lt;p&gt;I started my journey in software development when I was in college. Since then, I&amp;rsquo;ve been dedicated to honing my skills and expanding my knowledge in areas like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PHP, Laravel, Vue.js, and React&lt;/strong&gt; – My core web development stack.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linux (Ubuntu/Debian) and NGINX&lt;/strong&gt; – For server administration and hosting.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AWS, DigitalOcean, and Contabo&lt;/strong&gt; – Cloud services I use for deploying and managing applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-i-love-working-on&#34;&gt;What I Love Working On&lt;/h2&gt;&#xA;&lt;p&gt;I enjoy creating projects that involve web applications, secure systems, or responsive user interfaces. My favorite part of development is solving challenging problems, learning new frameworks, and collaborating with others.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
